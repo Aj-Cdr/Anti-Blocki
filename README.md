@@ -1,2 +1,1 @@
-# Anti-Blocki
-A PRIVATE WEB BROWSER
+# Anti-Blocki: "A PRIVATE WEB BROWSER" --> 
